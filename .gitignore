@@ -1,0 +1,22 @@
+# Виртуальное окружение
+venv_vkr/
+
+# Данные и логи
+data/
+dump/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Яйца
+*.egg-info/
+*.egg
+
+# Переменные окружения
+#.env
+
+# IDE
+.vscode/
+.idea/
